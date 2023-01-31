@@ -1,0 +1,11 @@
+/*
+Theme Name: Enno's Custom PHP Theme
+Version: 1.0
+Author: Enno Hyttrek
+*/
+
+
+body {
+    background: red;
+    color: #fff;
+}
